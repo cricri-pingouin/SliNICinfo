@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/01/20 20:48:50.797.bdsproj,C:\Users\Cricri\Documents\Borland Studio Projects\Project1.bdsproj=C:\Users\Cricri\Documents\Borland Studio Projects\nicinfo.bdsproj</Transaction>
+    <Transaction>2019/01/20 20:49:01.235.pas,C:\Users\Cricri\Documents\Borland Studio Projects\Unit1.pas=D:\Delphi projects\NIC info\Unit1.pas</Transaction>
+    <Transaction>2019/01/20 20:49:01.235.dfm,C:\Users\Cricri\Documents\Borland Studio Projects\Unit1.dfm=D:\Delphi projects\NIC info\Unit1.dfm</Transaction>
+    <Transaction>2019/01/20 20:49:02.872.bdsproj,C:\Users\Cricri\Documents\Borland Studio Projects\nicinfo.bdsproj=D:\Delphi projects\NIC info\nicinfo.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
